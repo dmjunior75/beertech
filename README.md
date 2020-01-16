@@ -1,0 +1,2 @@
+# beertech
+Beertech sfdx plugins
